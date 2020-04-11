@@ -1,0 +1,246 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 定位 */
+.search-view.data-v-57c4222c {
+	font-size: 30rpx;
+	font-weight: bold;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 20rpx 0;
+}
+.search-view image.data-v-57c4222c {
+	width: 35rpx;
+	height: 35rpx;
+	height: 80rpx;
+}
+.search-text.data-v-57c4222c {
+	padding: 0 10rpx;
+}
+/* 搜索 */
+.search-img.data-v-57c4222c {
+	margin: auto 0 auto 20rpx;
+	width: 40rpx;
+	height: 40rpx;
+}
+.search.data-v-57c4222c {
+	width: 100%;
+	height: 60rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	background: #e6e6e6;
+	border-radius: 15rpx;
+}
+.search input.data-v-57c4222c {
+	width: calc(100% - 65rpx); /*css函数 */
+	font-size: 28rpx;
+}
+/* 轮播图 */
+swiper.data-v-57c4222c {
+	height: 360rpx !important;
+}
+.swiper-item.data-v-57c4222c {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.conteng-img.data-v-57c4222c {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	font-size: 27rpx;
+	padding: 8rpx 20rpx;
+}
+.conteng-img image.data-v-57c4222c {
+	width: 90rpx;
+}
+.conteng-img text.data-v-57c4222c {
+	padding-top: 5rpx;
+}
+/* 指示点 */
+.instruct-view.data-v-57c4222c {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	padding-top: 10rpx;
+}
+.instuct.data-v-57c4222c {
+	background: #e6e6e6;
+	height: 10rpx;
+	width: 30rpx;
+	border-radius: 50rpx;
+	margin: 0 10rpx;
+}
+.active.data-v-57c4222c {
+	background: #fbae22 !important;
+}
+
